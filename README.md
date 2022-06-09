@@ -1,6 +1,8 @@
-# Flag-Games
+# **Flag-Games**
 
 #This app is a small game app about flags.
+
+
 ![Ekran Resmi 2022-06-09 13 54 40](https://user-images.githubusercontent.com/82471515/172830967-5ec7a97f-1aaa-411b-97dc-1a863cc036fc.png)
 
 #In the game, the name of the country is given at the top and there are three flags below. When we choose the correct one among the three flags, the score will increase by one point. However, if a wrong answer is given, the score will be deducted by one point.
